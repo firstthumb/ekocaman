@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Mono'), url(/fonts/JetBrainsMono-Medium.woff2) format('woff2');
+}
